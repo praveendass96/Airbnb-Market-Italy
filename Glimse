@@ -1,0 +1,38 @@
+Title: Airbnb Price Prediction in Italy
+
+Overview: 
+The project aims to provide more accurate rental price predictions for Airbnb 
+listings in a specific location in Italy. This will not only add value to customers by 
+ensuring they get a fair price for their rentals, but also benefit businesses by 
+increasing transparency in how rental prices are determined. 
+
+Business problem statement: 
+The goal of the project is to develop a machine learning model that can 
+accurately predict rental prices for Airbnb listings in a specific region. This will 
+help customers get a fair price for their rentals and provide businesses with 
+greater transparency in how rental prices are determined. 
+
+Business Problem Understanding: 
+The objective of the project is to develop a model that can help Airbnb customers 
+get a fair price for their rentals and provide greater transparency to businesses 
+on how rental prices are determined. By developing a machine learning model 
+that can accurately predict rental prices, the project aims to add value to both 
+customers and businesses. 
+
+Approach: 
+The approach to the project involves data collection, pre-processing, feature 
+engineering, model selection and training, and model evaluation. By following 
+this methodology, the project aims to develop an accurate machine learning 
+model that can predict rental prices for Airbnb listings. 
+We will evaluate the performance of our model using different metrics such as 
+mean squared error, root mean squared error, and R-squared. We will compare 
+the results of different algorithms and techniques to determine the most effective 
+approach. 
+
+Conclusions: 
+In this project, we will build a machine learning model to predict the price of an 
+Airbnb hotel based on various features. This model will help Airbnb hosts to set 
+an appropriate price for their listing and enable guests to make informed 
+decisions about their accommodation. The project has the potential to provide 
+valuable insights into the factors that drive Airbnb prices and improve the user 
+experience for both hosts and guests. 
